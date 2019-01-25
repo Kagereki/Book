@@ -11,6 +11,8 @@ link-citations: yes
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
+# Deployed links {-}
+
 This book is built with Travis CI, pushed to the `gh-pages` branch on GitHub, then deployed to two places:
 
 1. A GitHub Project Page (https://apreshill.github.io/bookdown-travis-branch-deploy/)
