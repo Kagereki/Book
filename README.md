@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/apreshill/bookdown-travis-branch-deploy.svg?branch=master)](https://travis-ci.com/apreshill/bookdown-travis-branch-deploy)
+[![Build Status](https://travis-ci.com/apreshill/bookdown-travis-branch-deploy.svg?branch=master)](https://travis-ci.com/apreshill/bookdown-travis-branch-deploy) [![Netlify Status](https://api.netlify.com/api/v1/badges/813c7f3f-1a86-4608-846d-4779bcc25919/deploy-status)](https://app.netlify.com/sites/bookdown-travis-branch-deploy/deploys)
 
 To follow along:
 
